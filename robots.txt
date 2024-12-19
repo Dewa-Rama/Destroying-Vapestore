@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dikaminang.github.io/Rumah-Makan-Padang-Dika-Minang/sitemap.xml
+Sitemap:https://dewa-rama.github.io/Destroying-Vapestore/sitemap.xml
